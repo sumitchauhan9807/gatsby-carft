@@ -26,3 +26,4 @@ const data = useStaticQuery(graphql`
     return <Img alt={props.alt} fluid={image.node.childImageSharp.fluid} />;
 }
 export default Image;
+//b4fbe260e8fd788972f0ad2b7f6a039c8c06fa19
